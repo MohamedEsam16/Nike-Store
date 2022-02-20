@@ -74,15 +74,7 @@ nav {
 .menuItem:hover {
   color: white;
 }
-/* @media (max-width:620px) {
-  .searchInput {
-    display: none;
-  }
-  .search {
-    display: none;
-  }
 
-} */
 
 /* ---------------------Slider--------------------------- */
 .slider {
@@ -220,110 +212,6 @@ nav {
 
 
 
-/* @media screen and (max-width:576px ) {
-
-  .slider{
-    overflow: visible;
-  }
-  .sliderItem {
-    position: relative;
-    width: 100vw;
-
-  }
-  .sliderBg {
-    width: 400px;
-    height: 400px;
-
-}
-  .sliderImg {
-    width: 80%;
-  }
-  .sliderTitle {
-    font-size: 30px;
-  }
-  .sliderPrice {
-    top: 8%;
-    left: 8%;
-    font-size: 40px;
-
-  }
-  .buyButton {
-    top: 45%;
-    right: 5%;
-    font-size: 20px;
-    border-radius: 5px;
-
-}
-  
-} */
-
-/* @media (min-width:576px) and (max-width:768px ) {
-  
-
-  .sliderItem {
-    position: relative;
-    width: 100vw;
-
-  }
-  .sliderBg {
-    width: 550px;
-    height: 550px;
-
-}
-  .sliderImg {
-    width: 80%;
-  }
-  .sliderTitle {
-    font-size: 30px;
-  }
-  .sliderPrice {
-    top: 8%;
-    left: 8%;
-    font-size: 40px;
-
-  }
-  .buyButton {
-    top: 45%;
-    right: 5%;
-    font-size: 20px;
-    border-radius: 5px;
-
-}
-  
-} */
-
-
-
-
-
-/* @media screen and (max-width:991px) {
-  .sliderTitle {
-    right: 5%;
-    font-size: 50px;
-  }
-  .sliderPrice {
-    top: 6%;
-    left: 3%;
-    font-size: 50px;
-  }
-  .sliderBg {
-    width: 680px;
-    height: 680px;
-  }
-  .sliderImg {
-    z-index: 1;
-    width: 85%;
-  }
-  .buyButton {
-    position: absolute;
-    top: 50%;
-    right: 2%;
-    font-size: 24px;
-  }
-
-
-} */
-
 
 
 
@@ -454,21 +342,6 @@ nav {
   -ms-transform: scale(1);
   -o-transform: scale(1);
 }
-
-/* @media screen and (max-width:768px) {
-  .productImg{
-    width: 60%;
-    position: absolute;
-    top:2%
-  }
-
-} */
-
-
-
-
-
-
 
 
 /* ------------------PAYMENT MODAl---------------- */
@@ -720,7 +593,7 @@ footer {
 }
 /* RESPONSIVE */
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:576px) {
   nav{
     padding: 20px;
   }
@@ -849,7 +722,7 @@ footer {
 
 
 
-@media (min-width:480px) and (max-width:912px) {
+@media (min-width:576px) and (max-width:912px) {
 
   .sliderImg{
     width: 90%;
