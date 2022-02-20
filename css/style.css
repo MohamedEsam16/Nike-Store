@@ -478,8 +478,8 @@ label{
 }
 
 .nsImg{
-  width: 100%;
-  height: 500px;
+    width: 100%;
+    height: 100%;
 }
 .nsTitleSm{
   margin-bottom: 40px;
